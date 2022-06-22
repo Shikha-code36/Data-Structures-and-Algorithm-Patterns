@@ -1,0 +1,8 @@
+Function Caling Function Itself
+Bigger Problem Solved by Solving Smaller Subproblems
+
+Learn 3 Steps Like PMI
+Base Case (Solve for smallest subproblem)
+Induction Hypothesis (Assume for n-1)
+Induction Step (Solve for nth step)
+
