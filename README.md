@@ -8,3 +8,4 @@ Data Structures and Algorithms implementation in Python.
         - [x] [Factorial](Recursion/Basic-Problems/factorial.py)
         - [x] [Fibonacci](Recursion/Basic-Problems/fibonacci.py)
         - [x] [Sum of Geometric Progression](Recursion/Basic-Problems/GP.py)
+        - [x] [Tower of Hanoi](Recursion/Basic-Problems/TOH.py)
