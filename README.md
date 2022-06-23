@@ -8,7 +8,7 @@ Data Structures and Algorithms implementation in Python.
         - [x] [Factorial](Recursion/Basic-Problems/factorial.py)
         - [x] [Fibonacci](Recursion/Basic-Problems/fibonacci.py)
 
-- [x] [Data Structures](Data-Structures)
-    - [x] [Stack](Data-Structures/Stack)
-        - [x] [Stack Using Array](Data-Structures/Stack/stack.py)
-        - [x] [Stack Using Linked List](Data-Structures/Stack/stack-using-linked-list.py)
+- [x] [Data Structures](Recursion)
+    - [x] [Stack](Recursion/Basic-Problems)
+        - [x] [Stack Using Array](Recursion/Basic-Problems/factorial.py)
+        - [x] [Stack Using Linked List](Recursion/Basic-Problems/fibonacci.py)
