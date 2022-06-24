@@ -1,6 +1,6 @@
 # DS-and-algorithm-Patterns
 
-Data Structures and Algorithms implementation in Python.
+Data Structures and Algorithms Patterns implemented in Python.
 
 ### Topics covered:
 - [x] [Recursion](Recursion)
