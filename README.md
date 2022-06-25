@@ -12,3 +12,5 @@ Data Structures and Algorithms Patterns implemented in Python.
     - [x] [Recursion on Arrays](Recursion/Arrays)
         - [x] [Merge Sort Array](Recursion/Arrays/mergesort.py)
         - [x] [Quick Sort Array](Recursion/Arrays/quicksort.py)
+    - [x] [Recursion on Strings](Recursion/Strings)
+        - [x] [Remove Consecutive Duplicates](Recursion/Strings/removeconsecutiveduplicates.py)
