@@ -16,3 +16,5 @@ Data Structures and Algorithms Patterns implemented in Python.
         - [x] [Remove Consecutive Duplicates](Recursion/Strings/removeconsecutiveduplicates.py)
     - [x] [Recursion on Linked List](Recursion/Linked-List)
         - [x] [Reverse Linked List](Recursion/Linked-List/Reverse-Linked-List.py)
+- [x] [Graphs](Graphs)
+    - [x] [Breadth First Search](Graphs/bfs.py)
