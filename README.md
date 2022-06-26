@@ -18,3 +18,4 @@ Data Structures and Algorithms Patterns implemented in Python.
         - [x] [Reverse Linked List](Recursion/Linked-List/Reverse-Linked-List.py)
 - [x] [Graphs](Graphs)
     - [x] [Breadth First Search](Graphs/bfs.py)
+    - [x] [Depth First Search](Graphs/dfs.py)
