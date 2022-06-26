@@ -21,4 +21,5 @@ Data Structures and Algorithms Patterns implemented in Python.
     - [x] [Depth First Search](Graphs/dfs.py)
 - [x] [Searching Alogorithms](Searching-Algo)
     - [x] [Binary Search](Searching-Algo/binarysearch.py)
+    - [x] [Linear Search](Searching-Algo/linearsearch.py)
     
