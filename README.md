@@ -22,4 +22,6 @@ Data Structures and Algorithms Patterns implemented in Python.
 - [x] [Searching Alogorithms](Searching-Algo)
     - [x] [Linear Search](Searching-Algo/linearsearch.py)
     - [x] [Binary Search](Searching-Algo/binarysearch.py)
+- [x] [Sorting Alogorithms](Sorting-Algo)
+    - [x] [Bubble Sort](Sorting-Algo/bubblesort.py)
     
