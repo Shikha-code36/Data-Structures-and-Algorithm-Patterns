@@ -30,4 +30,6 @@ Data Structures and Algorithms Patterns implemented in Python.
     - [x] [Bucket Sort](Sorting-Algo/bucketsort.py)
 - [x] [Strings](Strings)
     - [x] [KMP (Knuth Morris Pratt) Pattern Searching](Strings/KMP.py)
+- [x] [Trees](Trees)
+    - [x] [Binary Search Tree](Trees/binarysearchtree.py)
     
