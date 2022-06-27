@@ -25,5 +25,6 @@ Data Structures and Algorithms Patterns implemented in Python.
 - [x] [Sorting Alogorithms](Sorting-Algo)
     - [x] [Bubble Sort](Sorting-Algo/bubblesort.py)
     - [x] [Insertion Sort](Sorting-Algo/insertionsort.py)
+    - [x] [Shell Sort](Sorting-Algo/shellsort.py)
     - [x] [Selection Sort](Sorting-Algo/selectionsort.py)
     
