@@ -28,4 +28,6 @@ Data Structures and Algorithms Patterns implemented in Python.
     - [x] [Shell Sort](Sorting-Algo/shellsort.py)
     - [x] [Selection Sort](Sorting-Algo/selectionsort.py)
     - [x] [Bucket Sort](Sorting-Algo/bucketsort.py)
+- [x] [Strings](Strings)
+    - [x] [KMP (Knuth Morris Pratt) Pattern Searching](Strings/KMP.py)
     
