@@ -33,3 +33,4 @@ Data Structures and Algorithms Patterns implemented in Python.
 - [x] [Trees](Trees)
     - [x] [Binary Search Tree](Trees/binarysearchtree.py)
     
+This repository is for the references, anyone can feel free to use this.
