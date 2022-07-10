@@ -38,5 +38,6 @@ You can implement these notes in your own favourite programming language.
     - [x] [Binary Search Tree](Trees/binarysearchtree.py)
 - [x] [Stack And Queue](Trees)
     - [x] [Stack](Stack-and-Queue/stack.py)
+    - [x] [Queue](Stack-and-Queue/queue.py)
     
 This repository is for the references, anyone can feel free to use this.
