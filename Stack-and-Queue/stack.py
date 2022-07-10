@@ -3,9 +3,6 @@
 A stack is a linear data structure that follows the principle of Last In First Out (LIFO). This means the last element inserted inside the stack is removed first.
 '''
 
-# Stack implementation in python
-
-
 # Creating a stack
 def create_stack():
     stack = []
