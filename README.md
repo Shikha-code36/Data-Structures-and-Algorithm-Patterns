@@ -7,6 +7,7 @@ You can implement these notes in your own favourite programming language.
 ## Data Structures and Algorithms Patterns implemented in Python.
 
 ### Topics covered:
+- [x] [Arrays](Arrays.ipynb)
 - [x] [Graphs](Graphs)
     - [x] [Breadth First Search](Graphs/bfs.py)
     - [x] [Depth First Search](Graphs/dfs.py)
