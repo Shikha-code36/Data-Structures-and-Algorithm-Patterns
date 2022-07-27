@@ -37,6 +37,7 @@ You can implement these notes in your own favourite programming language.
     - [x] [Stack](Stack-and-Queue/stack.py)
     - [x] [Queue](Stack-and-Queue/queue.py)
 - [x] [Strings](Strings)
+    - [x] [Strings](Strings/Strings.ipynb)
     - [x] [KMP (Knuth Morris Pratt) Pattern Searching](Strings/KMP.py)
 - [x] [Trees](Trees)
     - [x] [Binary Search Tree](Trees/binarysearchtree.py)
