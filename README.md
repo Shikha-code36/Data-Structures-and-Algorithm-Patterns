@@ -44,5 +44,6 @@ You can implement these notes in your own favourite programming language.
  - [x] [Two Pointers](Two-pointers)
     - [x] [Two Pointers](Two-pointers/twopointer.ipynb)
     - [x] [Easy Problems on Two Pointers](Two-pointers/easy)
+    - [x] [Difficult Problems on Two Pointers](Two-pointers/easy)
     
 This repository is for the references, anyone can feel free to use this.
