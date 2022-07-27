@@ -43,5 +43,6 @@ You can implement these notes in your own favourite programming language.
     - [x] [Binary Search Tree](Trees/binarysearchtree.py)
  - [x] [Two Pointers](Two-pointers)
     - [x] [Two Pointers](Two-pointers/twopointer.ipynb)
+    - [x] [Easy Problems on Two Pointers](Two-pointers/easy)
     
 This repository is for the references, anyone can feel free to use this.
