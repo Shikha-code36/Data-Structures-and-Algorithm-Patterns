@@ -28,4 +28,5 @@ def sortColors(self, nums):
                 m+=1
         return nums
 
-            
+#T=O(n)
+#S=O(1)
