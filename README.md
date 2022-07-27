@@ -40,5 +40,7 @@ You can implement these notes in your own favourite programming language.
     - [x] [KMP (Knuth Morris Pratt) Pattern Searching](Strings/KMP.py)
 - [x] [Trees](Trees)
     - [x] [Binary Search Tree](Trees/binarysearchtree.py)
+ - [x] [Two Pointers](Two-pointers)
+    - [x] [Two Pointers](Two-pointers/twopointer.ipynb)
     
 This repository is for the references, anyone can feel free to use this.
